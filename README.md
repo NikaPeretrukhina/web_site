@@ -1,2 +1,2 @@
-# web_site
+# Web Shop
 Web Shop
